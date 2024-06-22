@@ -1,0 +1,7 @@
+numpy
+gensim
+scikit-learn
+scipy
+librosa
+matplotlib
+pyro-ppl
